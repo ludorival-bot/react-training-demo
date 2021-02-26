@@ -5,6 +5,6 @@
 ## What is a component ?
 > dede
 ## How to render a React component ?
-> ded
+> dede
 ## What React uses a virtual DOM ?
 > Because it's cool
