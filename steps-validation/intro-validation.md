@@ -1,10 +1,10 @@
 # My responses for the Quizz🤔
 
 ## React is mainly used for
-> User Interface
+> Database
 ## What is a component ?
-> ddede
+> deded
 ## How to render a React component ?
-> dedede
+> ded
 ## What React uses a virtual DOM ?
 > Because it's cool
