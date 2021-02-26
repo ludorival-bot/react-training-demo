@@ -1,0 +1,15 @@
+{
+  "name": "react-training-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "/Users/ldorival/workspaces-perso/training-guide/node_modules/.bin/ts-node /Users/ldorival/workspaces-perso/training-guide/src/index.ts start",
+    "submit": "/Users/ldorival/workspaces-perso/training-guide/node_modules/.bin/ts-node /Users/ldorival/workspaces-perso/training-guide/src/index.ts submit",
+    "refresh": "/Users/ldorival/workspaces-perso/training-guide/node_modules/.bin/ts-node /Users/ldorival/workspaces-perso/training-guide/src/index.ts refresh ../demo/training-guide.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
