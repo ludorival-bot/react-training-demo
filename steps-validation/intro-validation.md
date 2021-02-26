@@ -3,8 +3,8 @@
 ## React is mainly used for
 > User Interface
 ## What is a component ?
-> jhgjg
+> ddede
 ## How to render a React component ?
-> jgjhg
+> dedede
 ## What React uses a virtual DOM ?
 > Because it's cool
