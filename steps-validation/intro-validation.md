@@ -3,8 +3,8 @@
 ## React is mainly used for
 > Database
 ## What is a component ?
-> dede
+> deded
 ## How to render a React component ?
-> dede
+> deded
 ## What React uses a virtual DOM ?
 > Because it's cool
